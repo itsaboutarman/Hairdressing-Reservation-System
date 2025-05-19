@@ -46,3 +46,6 @@ The core idea and concept of this project are original and should not be reused 
 - Alireza Davoudi ali.davoudi@aut.ac.ir
 - Sadegh Khaleghi sadegh.khaleghi@aut.ac.ir
 - Mehrsa Malekzadeh mehrsamalek@aut.ac.ir
+
+
+⚠️ The core concept and original idea of this project are the intellectual property of the project authors and may not be reused or commercialized without permission.
