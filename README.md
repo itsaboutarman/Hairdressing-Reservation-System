@@ -18,9 +18,10 @@ This is a university project designed to simulate a hairdressing service reserva
 
 ## 🧠 Technologies Used
 
-- Programming Language: C#
-- UML tools for diagram design
-- [You can add database or frameworks if used]
+- Backend: Python, Django framework
+- Frontend: HTML, CSS, JavaScript
+- Database: SQLite
+- Tools: UML modeling tools for software design
 
 ## 📝 Documentation
 
@@ -46,6 +47,7 @@ The core idea and concept of this project are original and should not be reused 
 - Alireza Davoudi ali.davoudi@aut.ac.ir
 - Sadegh Khaleghi sadegh.khaleghi@aut.ac.ir
 - Mehrsa Malekzadeh mehrsamalek@aut.ac.ir
+- Abolfazl Nikahd 
 
 
 ⚠️ The core concept and original idea of this project are the intellectual property of the project authors and may not be reused or commercialized without permission.
