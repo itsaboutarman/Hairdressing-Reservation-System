@@ -1,0 +1,23 @@
+<h1>Your Appointments</h1>
+
+<h2>Upcoming Appointments</h2>
+<ul>
+  {% for appointment in upcoming_appointments %}
+    <li>
+      {{ appointment.service.service_name }} with {{ appointment.stylist.get_full_name }}
+      on {{ appointment.appointment_date }}
+      <a href="{% url 'customer:reschedule_appointment' appointment.id %}">Reschedule</a>
+      <a href="{% url 'customer:cancel_appointment' appointment.id %}">Cancel</a>
+    </li>
+  {% endfor %}
+</ul>
+
+<h2>Past Appointments</h2>
+<ul>
+  {% for appointment in past_appointments %}
+    <li>
+      {{ appointment.service.service_name }} with {{ appointment.stylist.get_full_name }}
+      on {{ appointment.appointment_date }}
+    </li>
+  {% endfor %}
+</ul>
