@@ -12,9 +12,9 @@ This is a university project designed to simulate a hairdressing service reserva
 
 ## 📁 Project Structure
 
-- /src: Source code of the application
-- /docs/SRS.pdf: Software Requirements Specification document
-- /docs/UML/: UML diagrams including use case, class, sequence diagrams, etc.
+- [/src](./srs): Source code of the application
+- [/docs/SRS.pdf](./docs/SRS.pdf): Software Requirements Specification document
+- [/docs/UML/](./docs/UML/): UML diagrams including use case, class, sequence diagrams, etc.
 
 ## 🧠 Technologies Used
 
